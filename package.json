@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/liorbentov/preserve-yaml-comments/issues"
   },
-  "homepage": "https://github.com/liorbentov/preserve-yaml-comments#readme"
+  "homepage": "https://github.com/liorbentov/preserve-yaml-comments#readme",
+  "dependencies": {
+    "js-yaml": "3.10.0"
+  }
 }
