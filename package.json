@@ -1,0 +1,24 @@
+{
+  "name": "preserve-yaml-comments",
+  "version": "1.0.0",
+  "description": "Extension to js-yaml to preserve comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liorbentov/preserve-yaml-comments.git"
+  },
+  "keywords": [
+    "YAML",
+    "comments",
+    "JSON"
+  ],
+  "author": "Lior Shub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liorbentov/preserve-yaml-comments/issues"
+  },
+  "homepage": "https://github.com/liorbentov/preserve-yaml-comments#readme"
+}
